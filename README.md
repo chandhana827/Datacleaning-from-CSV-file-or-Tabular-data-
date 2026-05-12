@@ -19,14 +19,14 @@ It is beginner-friendly and easy to modify for any dataset.
 
 # Features
 
-✔ Load CSV files  
-✔ Clean and standardize column names  
-✔ Fix date and text formats  
-✔ Handle missing values automatically  
-✔ Remove duplicate rows  
-✔ Detect and treat outliers using IQR  
-✔ Normalize or standardize numeric columns  
-✔ Save cleaned dataset as a new CSV file  
+1. Load CSV files  
+2.Clean and standardize column names  
+3.Fix date and text formats  
+4.Handle missing values automatically  
+5.Remove duplicate rows  
+6.Detect and treat outliers using IQR  
+7.Normalize or standardize numeric columns  
+8.Save cleaned dataset as a new CSV file  
 
 ---
 
