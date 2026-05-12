@@ -1,6 +1,7 @@
-<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6339b4d4-bb14-46af-811c-0b4313c3e32d" />
 
 # Data Cleaning Pipeline
+<img width="98" height="28" alt="image" src="https://github.com/user-attachments/assets/6339b4d4-bb14-46af-811c-0b4313c3e32d" />
+
 
 A simple Python project for cleaning CSV/tabular datasets using Pandas and NumPy.
 
